@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SQLiteDatabaseWoeds.iml" filepath="$PROJECT_DIR$/SQLiteDatabaseWoeds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqlitedatabase/sqlitedatabase.iml" filepath="$PROJECT_DIR$/sqlitedatabase/sqlitedatabase.iml" />
+    </modules>
+  </component>
+</project>
